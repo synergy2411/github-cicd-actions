@@ -48,7 +48,9 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
 		</plugins>
+		<finalName>springboot-github-new</finalName>
 	</build>
 
 </project>
